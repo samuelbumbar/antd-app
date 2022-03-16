@@ -2,9 +2,9 @@ import React from "react";
 import { Button } from "antd";
 
 /** Ant design stylesheet */
-import 'antd/dist/antd.css';
+import 'antd/dist/antd.less';
 
-import "./App.css";
+import "./App.less";
 
 const App = () => (
   <div className='App'>
